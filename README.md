@@ -1,5 +1,11 @@
 ### Hi I'm Navid Montazeripour, Welcome to my Github Page 👋
 
+I am full stack web developer and my outstanding skill is frontend development. My expertise in this
+area includes HTML, CSS, and JavaScript, along with advanced JavaScript such as React Js and related
+libraries, as well as advanced skills in backend development, developing and providing solutions for
+technical complexity. In addition, I have upper intermediate knowledge of databases. Since May 2020,
+I've been a full stack developer at my current job and after one year of hard work, I've been promoted
+to be a development team lead.
 <!--
 **Navmonti/Navmonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
