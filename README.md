@@ -1,9 +1,9 @@
-### Hi I'm <b style="font-size : 16px">Navid Montazeripour</b>, Welcome to my Github Page 👋
+### <div align="center">Hi I'm <b style="font-size : 16px">Navid Montazeripour</b>, Welcome to my Github Page 👋<div>
 
 <b>About Me:</b><br/>
 I have worked in full-stack developer for my entire 8-year career,and my commitment to critical thinking and attention to detail have gotten me to where I am today. I have a passion for processes, and I am an experienced team leader who typically manages many developers in many project. My career goal is to move into high level of updated technology .
-<br/>
-<br/>
+
+  <br/>
 <b>My Skills:</b>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -16,17 +16,20 @@ I have worked in full-stack developer for my entire 8-year career,and my commitm
 </div>
 
 <br/>
-<br/>
+ :desktop_computer: I’m currently working on <a href="http://www.asax.ir">Asa Co</a> 
+<!-- <img src="https://komarev.com/ghpvc/?username=Navmonti&style=flat-square&color=blue" alt=""/>-->
 
- :desktop_computer: I’m currently working on <a href="http://www.asax.ir">Asa Co</a>
  <br/>
- :email: you can be in touch with me by : navid.montazeripour@gmail.com
- 
+  
+  
+  
  [![Linkedin Badge](https://img.shields.io/badge/-NavidMontazeripour-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navidmontazeripour/)
  [![Gmail Badge](https://img.shields.io/badge/-navid.montazeripour@gmail.com-orange?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/navidmontazeripour/)
  
  
- ---
+
+
+<!--
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navmonti&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -34,7 +37,6 @@ I have worked in full-stack developer for my entire 8-year career,and my commitm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navmonti&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **Navmonti/Navmonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
