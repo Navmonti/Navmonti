@@ -14,22 +14,22 @@ to be a development team lead.
  ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,jquery,react,redux,materialui,bootstrap,git,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,jquery,react,redux,materialui,bootstrap,git,cs,dotnet" width="500"  />
   </a>
 </p>
 
 ### Socials
   <p align="left">
   <a href="https://www.instagram.com/summarycode">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"/>
   </a>
 	<a href="https://twitter.com/Navmonti">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter"  width="30" height="30"//>
   </a>
 	<a href="https://www.linkedin.com/in/navidmontazeripour">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"  width="30" height="30"/>
   </a>
 		<a href="https://github.com/Navmonti">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="30" height="30" />
   </a>
 </p>
