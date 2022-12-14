@@ -1,4 +1,4 @@
-### <div align="center">Hi I'm <b style="font-size : 16px">Navid Montazeripour</b>, Welcome to my Github Page 👋<div>
+### <H1 align="center">I'm Navid Montazeripour,<br/> Full Stack Web Application Developer (.Net and React Js)👋<H1>
 
 <b>About Me:</b><br/>
 I have worked in full-stack developer for my entire 8-year career,and my commitment to critical thinking and attention to detail have gotten me to where I am today. I have a passion for processes, and I am an experienced team leader who typically manages many developers in many project. My career goal is to move into high level of updated technology .
