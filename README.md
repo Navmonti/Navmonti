@@ -12,15 +12,7 @@ to be a development team lead.
 <br/>
 :desktop_computer: My website is <a href="http://www.navidmontazeripour.com">Navid Montazeripour</a> .
  
- 
- ### Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,jquery,react,redux,materialui,bootstrap,git,cs,dotnet" width="500"  />
-  </a>
-</p>
-
-### Socials
+ ### Socials
   <p align="left">
   <a href="https://www.instagram.com/summarycode">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30"/>
@@ -35,3 +27,18 @@ to be a development team lead.
     <img src="https://skillicons.dev/icons?i=github" width="30" height="30" />
   </a>
 </p>
+
+ ### Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,jquery,react,redux,materialui,bootstrap,git,cs,dotnet" width="500"  />
+  </a>
+</p>
+
+
+
+### My Activity
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navmonti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=navmonti)
