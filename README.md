@@ -1,14 +1,9 @@
- ### <h2 align="center">I'm Navid Montazeripour 👋</h2>
+ ### <h1 align="center">I'm Navid Montazeripour 👋</h1>
  
  ### About Me
- I am full stack web developer and my outstanding skill is frontend development. My expertise in this
-area includes HTML, CSS, and JavaScript, along with advanced JavaScript such as React Js and related
-libraries, as well as advanced skills in backend development, developing and providing solutions for
-technical complexity. In addition, I have upper intermediate knowledge of databases. Since May 2020,
-I've been a full stack developer at my current job and after one year of hard work, I've been promoted
-to be a development team lead.
+As a full-stack developer, I specialize in <b>C#</b>, <b>.NET</b>, and <b>React JS</b>, with strong proficiency in <b>Object-oriented programming (OOP)</b> and <b>SOLID principles</b>. I have basic knowledge of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, which complements my front-end development skills. My skills include database management, particularly with <b>MS SQL Server</b>, as well as <b>WEB API</b> development and architectural design. In <b>Agile</b> settings, I excel in the <b>Software Development Life Cycle (SDLC)</b>, utilizing <b>Git</b> for version control and practicing <b>Test-Driven Development (TDD)</b> to ensure high-quality solutions. My effective communication and problem-solving abilities make me a versatile team player capable of handling complex challenges and driving successful
 
-:desktop_computer: I’m currently working on <a href="http://www.asax.ir">Asa Co</a> as a full-time full-stack developer.
+:desktop_computer: I’m currently working on <a href="https://www.iLobby.com">iLobby</a> as a full-time <b>Full-Stack Software Developer</b>.
 <br/>
 :desktop_computer: My website is <a href="http://www.navidmontazeripour.com">Navid Montazeripour</a> .
  
@@ -38,7 +33,4 @@ to be a development team lead.
 
 
 ### My Activity
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navmonti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=navmonti)
